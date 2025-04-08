@@ -1,5 +1,2 @@
-Code for Kaggle competitation 
+Code for Kaggle competitations 
 
-Optiver - Trading at the Close
-
-https://www.kaggle.com/competitions/optiver-trading-at-the-close
